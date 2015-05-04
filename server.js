@@ -1,6 +1,6 @@
 var express = require('express'),
     app = express(),
-    expressHbs = require('express3-handlebars'),
+    expressHbs = require('express-handlebars'),
     port = 80,
     jf = require('jsonfile'),
     util = require('util');
