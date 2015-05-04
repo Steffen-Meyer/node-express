@@ -5,6 +5,7 @@
   "dependencies": {
     "express": "4.*",
     "express-handlebars": "^2.0.1",
+    "express3-handlebars": "^0.5.2",
     "jsonfile": "^2.0.0"
   },
   "engine": "node >=0.6.x"
