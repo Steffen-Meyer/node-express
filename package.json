@@ -8,5 +8,8 @@
     "express3-handlebars": "^0.5.2",
     "jsonfile": "^2.0.0"
   },
+  "scripts": {
+    "start": "node server.js"
+  },
   "engine": "node >=0.6.x"
 }
