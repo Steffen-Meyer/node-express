@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "A Node.js App using express",
   "dependencies": {
-    "express": "4.*",
-    "express-handlebars": "^2.0.1",
+    "bower": "^1.4.1",
+    "express": "*",
     "express3-handlebars": "^0.5.2",
     "jsonfile": "^2.0.0"
   },
