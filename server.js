@@ -1,7 +1,7 @@
 var express = require('express'),
     app = express(),
     expressHbs = require('express3-handlebars'),
-    port = 80,
+    port = env.PORT || 8000,
     jf = require('jsonfile'),
     util = require('util');
 
